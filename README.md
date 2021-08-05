@@ -14,7 +14,7 @@
 [<img align="left" alt="animolke" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][Instagram]
 [<img align="left" alt="animolke" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" />][Facebook]
 [<img align="left" alt="animolke" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" />][Linkedin]
-
+<br/>
 <hr/>
 
 [<img align="left" alt="animolke" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg" />][Spotify]

@@ -1,6 +1,6 @@
 ### Hello world, I'm Aniket - [animolke][Linkedin]
 
-## I'm a Software Engineer, Casual Gamer & Spotify Listener!
+## I'm a Software Engineer, Casual Gamer, Movie Watcher & Music Listener!
 - 🎓 Learning new stuff
 - 🎵 Adding new songs to my collection
 - 🎮 Playing games all the time

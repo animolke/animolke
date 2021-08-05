@@ -1,10 +1,10 @@
 ### Hello world, I'm Aniket - [animolke][Linkedin]
 
 ## I'm a Software Engineer, Casual Gamer & Spotify Listener!
-- 🎓 I'm currently learning new stuff
+- 🎓 Learning new stuff
 - 🎵 Adding new songs to my collection
 - 🎮 Playing games all the time
-- ⛳ 2021 Goals: Learn new skills
+- ⛳ 2021 Goals: Learn new tech
 - ☠ Fun Fact: Ain't no fun, I look at my code and cry all the time
 
 <hr/>

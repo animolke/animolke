@@ -3,8 +3,7 @@
 ## I'm a Software Engineer, Casual Gamer, Movie Watcher & Music Listener!
 - 🎓 Learning new stuff
 - 🎵 Adding new songs to my collection
-- 🎮 Playing games all the time
-- ⛳ 2021 Goals: Learn new tech
+- ⛳ 2023 Goals: Learn new tech
 - ☠ Fun Fact: Ain't no fun, I look at my code and cry all the time
 
 <hr/>
